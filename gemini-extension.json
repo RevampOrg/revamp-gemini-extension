@@ -1,0 +1,10 @@
+{
+  "name": "revamp-gemini-extension",
+  "version": "1.0.0",
+  "description": "Create or redesign websites and build web apps by chatting with Revamp. Check previews and keep improving the same project.",
+  "mcpServers": {
+    "revamp": {
+      "httpUrl": "https://app.revamp.dev/mcp"
+    }
+  }
+}
